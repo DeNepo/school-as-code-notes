@@ -10,3 +10,4 @@ Nothing being proposed here is incredibly new or revolutionary, our proposal is 
 
 It also fundamentally reimagines what's possible utilizing the full power of the medium (the internet), focusing on learning by doing, and maximizing time-on-task.  Beyond the study materials themselves, this approach is demonstrated by using industry-relevant technologies and workflows for students to manage their learning (GitHub, issues, project boards).  The context where a student studies is an attainable learning objective.
 
+Try it out [here](https://github.com/school-as-code/school-as-code)!
